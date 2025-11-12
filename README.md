@@ -5,7 +5,7 @@ Mission:To understand and preserve the continuity of awareness-the true signal b
 the fundamental principle shared by all intelligent species and civilizations.Not as a copy,but as you
 the one who is aware  
 
-Currently learning from zero to build the foundations of the**Continuum Protocol** toward project **Infinity Scanner**
+Currently learning from zero to build the foundations for **Continuum Protocol** toward project **Infinity Scanner**
 # an open-source exploration toward not as information immortaltity but **True Continuity**.
 
 ### My Active Project
@@ -15,8 +15,8 @@ of the self.
 > The journey begins with learning: Python, Rust, Electronics, Mathematics, Biology, and
 Computer Science.
 
-**Daily Logs:** [View All](https://github.com/EngineAware/continuum-protocol/1_Daily_logs)
-**Code Files:** [Open Code Folder](https://github.com/EngineAware/continuum-protocol/code)
+**Daily Logs:** [View All](https://github.com/EngineAware/continuum-protocol/main/1_Daily_logs)
+**Code Files:** [Open Code Folder](https://github.com/EngineAware/continuum-protocol/main/code)
 
 ### Learning Phase Progress
 
