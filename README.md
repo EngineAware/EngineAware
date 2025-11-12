@@ -15,8 +15,8 @@ of the self.
 > The journey begins with learning: Python, Rust, Electronics, Mathematics, Biology, and
 Computer Science.
 
-**Daily Logs:** [View All](https://github.com/EngineAware/continuum-protocol/tree/main/1_Daily_logs)
-**Code Files:** [Open Code Folder](https://github.com/EngineAware/continuum-protocol/tree/main/code)
+**Daily Logs:** [View All](https://github.com/EngineAware/continuum-protocol/1_Daily_logs)
+**Code Files:** [Open Code Folder](https://github.com/EngineAware/continuum-protocol/code)
 
 ### Learning Phase Progress
 
