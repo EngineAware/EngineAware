@@ -16,7 +16,7 @@ of the self.
 Computer Science.
 
 **Daily Logs:** [View All](./1_Daily_logs)
-**Code Files:** [Open Code Folder](./Code)
+**Code Files:** [Open Code Folder](https://github.com/EngineAware/Continuum-protocol/tree/8a4fffcdb442dea6078d3cd3dd30028505c448c8/Code)
 ### Learning Phase Progress
 
 | Field | Status | Focus |
@@ -33,9 +33,6 @@ In Progress | Circuits, voltage measurement |
 |
 Mathematics |
 In Progress | Place value, logic, algebra |
-|
-Biology |
-In Progress | Origin of life, biological systems |
 |
 Computer Science |
 In Progress | Information systems, computation |
